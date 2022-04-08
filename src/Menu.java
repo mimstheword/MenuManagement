@@ -42,7 +42,7 @@ public class Menu
 	@Override
 	public String toString()
 	{
-		return "The menu is as followed:\n" + newMenu + "]";
+		return "This menu is as followed:\n" + newMenu;
 	}
 	
 	
