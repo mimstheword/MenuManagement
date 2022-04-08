@@ -19,7 +19,7 @@ class MenuItemTest
 	@Test
 	void createEmptyArrayList()
 	{
-		//fail("Not yet implemented");
+
 		Menu unem = new Menu(new ArrayList<MenuItem>());
 		assert(unem != null && unem.getNewMenu().size() == 0);
 		
