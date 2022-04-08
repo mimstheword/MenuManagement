@@ -5,7 +5,7 @@ import java.util.InputMismatchException;
  * @version 1.0
  * Written: Apr 4, 2022
  * 
- *This class- Creates the menuitem objects
+ *This class- Creates the menuitem objects to be held in a Menu Object
  **/
 
 public class MenuItem
