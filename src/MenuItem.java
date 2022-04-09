@@ -110,7 +110,7 @@ public class MenuItem
 	@Override
 	public String toString()
 	{
-		return category + ": " + foodName + "; " + price + "\n" + desc + "\n"; 
+		return category + ": " + foodName + "; $" + price + "\n" + desc + "\n"; 
 	}
 	
 	
